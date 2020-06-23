@@ -29,8 +29,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-
-Describe any challenges encountered while building the app.
+Overall, not too many challenges with this first app project! Initially the OnLongClickListener Interfaces and itemAdapter concepts were confusing, but after creating another interface for the regular clicks, this concept made a lot more sense to me. Additionally, I think I will still need more practice to get used to the Intents from the stretch feature, but I understand the basics. 
 
 ## License
 
